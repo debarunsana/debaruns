@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BREngine", "BREngine\BREngine.csproj", "{731305AD-2E5F-47BD-9E14-0A3B179CC5A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment", "Payment\Payment.csproj", "{DE7A342D-7ACF-4AFA-BAB0-BC2E5B2A4138}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{731305AD-2E5F-47BD-9E14-0A3B179CC5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731305AD-2E5F-47BD-9E14-0A3B179CC5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731305AD-2E5F-47BD-9E14-0A3B179CC5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7A342D-7ACF-4AFA-BAB0-BC2E5B2A4138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7A342D-7ACF-4AFA-BAB0-BC2E5B2A4138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7A342D-7ACF-4AFA-BAB0-BC2E5B2A4138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7A342D-7ACF-4AFA-BAB0-BC2E5B2A4138}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
